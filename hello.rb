@@ -1,3 +1,5 @@
 # Default is "World"
+#Author: Daniel Wong
 name = ARGV.first || "World"
-puts "Hellom #{name}!"
+puts "Hello, #{name}!"
+
